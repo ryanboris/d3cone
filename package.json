@@ -4,7 +4,7 @@
     "build": "parcel build --out-dir='build/' --no-cache --no-source-maps src/index.html"
   },
   "dependencies": {
-    "d3": "^5.15.0"
+    "d3": "^7.6.1"
   },
   "devDependencies": {
     "eslint": "^6.8.0",
